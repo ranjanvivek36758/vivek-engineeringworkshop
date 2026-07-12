@@ -111,3 +111,20 @@ text-align:center;
 padding:30px;
 margin-top:40px;
 }
+.about{
+padding:60px 20px;
+background:white;
+text-align:center;
+}
+
+.about h2{
+color:#ff9800;
+margin-bottom:20px;
+}
+
+.about p{
+max-width:800px;
+margin:auto;
+font-size:18px;
+line-height:1.8;
+}
