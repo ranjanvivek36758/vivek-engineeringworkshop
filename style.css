@@ -74,3 +74,46 @@ footer{
     padding:20px;
     margin-top:40px;
 }
+/* Version 2 Update */
+
+nav{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+    margin-top:20px;
+}
+
+nav a{
+    display:inline-block;
+    background:#ff9800;
+    color:white;
+    padding:12px 22px;
+    border-radius:10px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+nav a:hover{
+    background:#ffb300;
+    transform:scale(1.05);
+}
+
+.hero{
+    padding:60px 20px;
+}
+
+.services{
+    background:white;
+    padding:50px 20px;
+}
+
+.services ul{
+    list-style:none;
+}
+
+.services li{
+    font-size:20px;
+    margin:15px 0;
+}
